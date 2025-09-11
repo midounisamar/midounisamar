@@ -19,8 +19,11 @@
 
 - 🔭 Actuellement en train de développer des projets en **Python** et **SQL**  
 - 📊 Expérimenté avec **Power BI** et la création de dashboards interactifs  
+- 📈 Compétent en **séries chronologiques**, modélisation et prévisions  
 - 🛠️ Connaissance en **HTML/CSS**, **VS Code** et **bases de données Oracle**  
-- 🌱 J'apprends en continu les techniques de **Machine Learning** et **Big Data**  
+- 🌱 J'apprends en continu les techniques de **Machine Learning**, **Big Data** et l'optimisation des modèles  
+- 🎓 **Licence en Mathématiques Appliquées**  
+- 🎓 **Master en Actuariat, Data Science et Contrôle Stochastique**  
 - 💬 N’hésitez pas à me poser des questions sur Python, SQL ou l'analyse de données !
 
 ---
