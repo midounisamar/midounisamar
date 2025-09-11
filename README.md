@@ -29,7 +29,8 @@
 <code><img height="20" alt="Oracle" src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg"></code>
 <code><img height="20" alt="VSCode" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
-<code><img height="20" alt="PowerBI" src="https://user-images.githubusercontent.com/73097560/212748879-7f1c3fcb-41fa-490d-8028-307ad5cfb8f8.png"></code>
+<code><img height="20" alt="Power BI" src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg"></code>
+
 
 ---
 
