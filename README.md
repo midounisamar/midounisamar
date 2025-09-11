@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img width="30%" alt="Hello, I'm [Midouni Samar]" src="https://raw.githubusercontent.com/midounisamar/midounisamar/main/assets/preview.png"
+  <img width="20%" alt="Hello, I'm [Midouni Samar]" src="https://raw.githubusercontent.com/midounisamar/midounisamar/main/assets/preview.png"
      />
 </p>
 
