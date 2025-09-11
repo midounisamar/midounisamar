@@ -1,11 +1,11 @@
 ## Hi there 👋
 <p align="center">
-  <img width="80%" alt="Hello, I'm [Ton Nom]" src="https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.png" />
+  <img width="80%" alt="Hello, I'm [Midouni Samar]" src="https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.png" />
 </p>
 
 <br />
 
-## 👋 Bonjour, je suis [Ton Nom]
+## 👋 Bonjour, je suis [Midouni Samar]
 
 🎯 **Data Scientist & Analyste de données**  
 💡 Passionné par la **data science**, la **visualisation de données** et la **résolution de problèmes** à l'aide de la programmation.  
