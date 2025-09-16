@@ -57,7 +57,7 @@
 
 📫 **Retrouvez-moi sur :**  
 <a href="https://www.linkedin.com/in/samar-midouni-53ab81241/" target="_blank">
-  <img alt="LinkedIn" width="22px" src="https://github.com/midounisamar/previon_de_la_consommation_-ectrique.git" />
+  <img alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/midounisamar/midounisamar/main/assets/linkdin.png" />
 </a>
 
 <a href="mailto:ton.email@example.com"><img alt="Email" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/gmail.svg" /></a>
