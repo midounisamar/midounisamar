@@ -49,7 +49,7 @@
 
 ### 📂 Projets en vedette
 
-<a href="https://github.com/your-username/projet1">
+<a href=https://github.com/midounisamar/previon_de_la_consommation_-ectrique.git>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=projet1&theme=buefy" />
 </a>
 <a href="https://github.com/your-username/projet2">
