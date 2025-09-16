@@ -40,10 +40,7 @@
 
 ---
 
-### 📊 Mes statistiques GitHub
 
-| <a href="https://github.com/your-username"><img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/your-username"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 ---
 
