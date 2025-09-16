@@ -60,5 +60,4 @@
   <img alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/midounisamar/midounisamar/main/assets/linkdin.png" />
 </a>
 
-<a href="mailto:ton.email@example.com"><img alt="Email" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/gmail.svg" /></a>
 
